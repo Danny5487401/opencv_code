@@ -1,2 +1,2 @@
 # opencv_code
-opencv with python
+opencv with python3.7
